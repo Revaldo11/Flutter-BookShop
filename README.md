@@ -1,16 +1,21 @@
-# bookshop
+# Flutter Music Player UI
 
-A new Flutter project.
+```dart
+class Revaldo extends FlutterProject {
+    return {
+      "title": "Flutter Book Shop UI",
+      "description": "Make an UI of Book Shop App with Flutter",
+    }
+}
+```
 
-## Getting Started
+## Getting Started 🚀
 
-This project is a starting point for a Flutter application.
+```shell
+- Clone the repo
+- flutter pub get
+- flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ScreenShot
+<img src="doc/01.png" height="500em" />&nbsp;<img src="doc/02.png" height="500em" />&nbsp;<img src="doc/03.png" height="500em" />
